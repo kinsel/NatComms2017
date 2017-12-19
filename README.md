@@ -12,3 +12,5 @@ a) Practice Tasks
 b) Original Go/NoGo Task used for experiment (note: must be run in old version of psychopy v 1.78 as color filter feature is now deprecated. See readme file in folder for details)
 
 c) Updated Task (note: added 12/19/17 to update color issue. All color stimuli are now available as individual png files instead of using the psychopy filter function. Code for GSR has been removed to avoid errors related to missing serial port connections. Scanner sync code has been commented out to allow for behavioral testing.)
+
+For fMRI contrasts, raw statistical maps are available to view and download at https://neurovault.org/collections/2698/
